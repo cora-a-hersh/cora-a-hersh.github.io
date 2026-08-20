@@ -23,7 +23,7 @@ repository               : "cora-a-hersh/cora-a-hersh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cranberries_cropped.png"
+  avatar           : "cranberries_cropped.jpeg"
   name             : "Cora Hersh, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Ocean and climate scientist"
