@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 I am an ocean and climate physicist who uses a combination of observational data and computational modeling to understand the ocean's role in climate.
+
+In my spare time, I enjoy biking, foraging for edible plants, thrift shopping, and a variety of arts and crafts.
