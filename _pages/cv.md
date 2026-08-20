@@ -94,3 +94,7 @@ Service and leadership
 * Scientist, Synergy Art/Science Collaboration Project. Art League of Rhode Island, 2025-present
 * Writer & Editor, Through the Porthole Student Newsletter. Woods Hole Oceanographic Institution, 2022-2025
 * Physical Oceanography Representative, WHOI Student Organization. Woods Hole Oceanographic Institution, 2022-2023
+* Graduate Climate Conference Executive Committee Co-Chair (2021); Member (2020 & 2022). MIT & University of Washington, 2020-2022
+* Mentor, Joint Program Applicant Support & Knowledgebase. MIT-WHOI Joint Program, 2019-2024
+* Docent, Sant Ocean Hall. Smithsonian National Museum of Natural History, 2017-2018
+* Volunteer Coordinator, NCI Scientists in the Community. National Cancer Institute, 2017-2018
