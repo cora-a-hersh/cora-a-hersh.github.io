@@ -11,26 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physical Oceanography, MIT-WHOI Joint Program, 2025. Advisors: Drs. Geoffrey Gebbie and Susan Wijffels
+* B.S. in Physics, Haverford College, 2016
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Investigator in Physical Oceanography: December 2025-present
+  * Woods Hole Oceanographic Institution
+  * Research in drivers of subtropical water mass variability using the MITgcm
+  * Supervisor: Dr. Chris Piecuch
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant in Physical Oceanography: August 2018-June 2019
+  * Woods Hole Oceanographic Institution
+  * Worked with Argo and ALAMO teams. Data visualization of Argo products related to climate change signals.
+  Spearheaded development of Argo and Float Group websites, and analyzed Argo dataset quality by comparison
+  to gold-standard ship-based data.
+  * Supervisor: Dr. Susan Wijffels
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Science Communications and Science Writing Fellow: June 2016-May 2018
+  * National Cancer Institute, Division of Cancer Epidemiology and Genetics
+  * Wrote technical articles for public and scientific online audiences that showcased research by NCI
+scientists from the Division of Cancer Epidemiology and Genetics (DCEG). Developed key messages for
+high-impact papers and coordinated media inquiry responses for DCEG investigators. Created social
+media campaigns, assisted with communications trainings for scientists, managed website content.
+  * Supervisor: Jennifer Loukissas, M.P.P.
   
 Skills
 ======
