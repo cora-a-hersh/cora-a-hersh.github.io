@@ -29,11 +29,11 @@ author:
   bio              : "Ocean and climate scientist"
   location         : "Somerville, MA"
   employer         : "WHOI"
-  uri              : # URL
+  uri              : "https://www.whoi.edu/profile/chersh/" # URL
   email            : "chersh@whoi.edu" 
 
   # Academic websites
-  academia         : "https://www.whoi.edu/profile/chersh/"# URL
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Iq2ndlIAAAAJ"
   inspire-hep      : # URL
