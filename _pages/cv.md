@@ -60,6 +60,7 @@ J.F., Hersh, C., Horiuchi, S., Krivonos, R. Phys. Rev. D. (2017).
   
 Talks
 ======
+* “Tunnels in the ocean: How large-scale currents may influence year-to-year variability and predictability in the Northwest Atlantic Ocean,” Gulf of Maine Research Institute Research Seminar, Portland, Maine. July 21, 2026.
 * “Does interannual water mass variability generated in the subtropics directly impact upper equatorial
 waters?” Ocean Sciences Meeting, Glasgow, Scotland. February 25, 2026 (poster)
 * “Tunnels in the ocean: propagation of interannual water mass anomalies in global subtropical cells,”
